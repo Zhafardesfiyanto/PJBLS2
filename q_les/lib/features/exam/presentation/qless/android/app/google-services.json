@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "780475069816",
+    "project_id": "qlees-bd6a4",
+    "storage_bucket": "qlees-bd6a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780475069816:android:7909a48f4377356841048d",
+        "android_client_info": {
+          "package_name": "com.example.q_lesss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780475069816-p3fehufkeqennk5t3hivc4ms81igm7hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.q_lesss",
+            "certificate_hash": "cea1b4a02071120b7286dfa889790dd6282ccb88"
+          }
+        },
+        {
+          "client_id": "780475069816-ih6vlmnudreaj0qora2ma01hlvfos6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7c8FXCBGqAdxCXxjGfHbqSi874aZ9gVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780475069816-ih6vlmnudreaj0qora2ma01hlvfos6p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780475069816-cl4k823kdj9ero45vfkqci3pjbjdthu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qLesss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780475069816:android:abc76a893a0b7dad41048d",
+        "android_client_info": {
+          "package_name": "com.example.qless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780475069816-ih6vlmnudreaj0qora2ma01hlvfos6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7c8FXCBGqAdxCXxjGfHbqSi874aZ9gVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780475069816-ih6vlmnudreaj0qora2ma01hlvfos6p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780475069816-cl4k823kdj9ero45vfkqci3pjbjdthu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qLesss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

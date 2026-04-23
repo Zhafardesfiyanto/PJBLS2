@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "802774746484",
+    "project_id": "q-less-93d8f",
+    "storage_bucket": "q-less-93d8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802774746484:android:07acc455884ea8442e1821",
+        "android_client_info": {
+          "package_name": "com.example.q_les"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802774746484-7e3s5m2hicqivugtgvi5m8q50lnb94gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHeyYmvLol1wh2-7ZuWBaJgBAZijnroU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802774746484-7e3s5m2hicqivugtgvi5m8q50lnb94gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802774746484-o96v3u3o1vj7vu77aidqkm11h6372o75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qLes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802774746484:android:3d95006796c56ad02e1821",
+        "android_client_info": {
+          "package_name": "com.zhafar.qles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802774746484-meo6qfar1im54bbhcrlpvk510k3ud8n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhafar.qles",
+            "certificate_hash": "cea1b4a02071120b7286dfa889790dd6282ccb88"
+          }
+        },
+        {
+          "client_id": "802774746484-7e3s5m2hicqivugtgvi5m8q50lnb94gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHeyYmvLol1wh2-7ZuWBaJgBAZijnroU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802774746484-7e3s5m2hicqivugtgvi5m8q50lnb94gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802774746484-o96v3u3o1vj7vu77aidqkm11h6372o75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qLes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
